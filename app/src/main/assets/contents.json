@@ -78,7 +78,7 @@
           "accessibility_text": "A white cup contains coffee with white foam in the shape of a broken heart on top."
         },
         {
-          "image_file": "07_Chat_ff.webp",
+          "image_file": "08_Chat_ff.webp",
           "emojis": [
             "💬",
             "😍",
@@ -440,4 +440,5 @@
       ]
     }
   ]
-}
+    }
+          
